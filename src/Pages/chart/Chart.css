@@ -1,0 +1,12 @@
+.chart-but button {
+  color: black;
+  background-color: #b1e5f8;
+  margin-top: 48%;
+  margin-bottom: 10px;
+  width: 176px;
+  font-size: 11px;
+}
+
+.chart-but button:hover {
+  background-color: #b1e5f8;
+}
